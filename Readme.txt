@@ -1,1 +1,2 @@
-PC Assistant is a desktop application designed to streamline various PC management tasks through a user-friendly graphical interface.
+This project aims to develop an intelligent system capable of performing tasks on a PC remotely through natural language commands given via a mobile or web app. Using advanced NLP (Natural Language Processing) and automation techniques , the system detects task intents and executes them.
+the tasks are executed by using INTEL DEEPNN model in NLP and INTEL OPEN-VINO model in CV .The project also includes file transfer functionalities between mobile and PC when they are connected.
