@@ -1,0 +1,8 @@
+remote:
+    1.send message and recevie message.
+Process:
+    1. Screen shot (take screenshot(self))
+    2. Set brightness (set brightness to <value>%)
+    3. Creating Folder (create folder <name>)
+    4. close Folder
+    5. Create a doc about content
